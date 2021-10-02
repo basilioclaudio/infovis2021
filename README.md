@@ -11,6 +11,9 @@ Análisis de los datos de mom del 2021 semana 37 sobre The 20 Largest Solar Powe
 
 ## Clase 18/08/2021
 
+Análisis de los datos de mom del 2021 semana 38 sobre Dark Web Price Index 2021
+[MakeOverMonday_2021_38](https://basilioclaudio.github.io/infovis2021/mom2021w38.html)
+
 ### Tarea para el 24/09/2021:
 Leer el paper A Tour through the [Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128) y generar en un archivo [zoo.txt](https://raw.githubusercontent.com/basilioclaudio/infovis2021/main/zoo.txt)  (texto plano) las palabras frases que les llamaron la atencion.
 
